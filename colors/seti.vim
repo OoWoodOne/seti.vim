@@ -84,6 +84,9 @@ hi rubyRailsARMethod            ctermfg=140   ctermbg=NONE  cterm=NONE          
 hi rubyRailsRenderMethod        ctermfg=140   ctermbg=NONE  cterm=NONE          guifg=#a074c4   guibg=NONE      gui=NONE
 hi rubyRailsMethod              ctermfg=140   ctermbg=NONE  cterm=NONE          guifg=#a074c4   guibg=NONE      gui=NONE
 
+hi pythonString                 ctermfg=185   ctermbg=NONE  cterm=NONE          guifg=#e6cd69   guibg=NONE      gui=NONE
+
+
 hi erubyDelimiter               ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=NONE      guibg=NONE      gui=NONE
 hi erubyComment                 ctermfg=59    ctermbg=NONE  cterm=NONE          guifg=#41535b   guibg=NONE      gui=NONE
 hi erubyRailsMethod             ctermfg=140   ctermbg=NONE  cterm=NONE          guifg=#a074c4   guibg=NONE      gui=NONE
