@@ -102,6 +102,7 @@ hi pythonConditional            ctermfg=167   ctermbg=NONE  cterm=bold          
 hi pythonRepeat                 ctermfg=167   ctermbg=NONE  cterm=bold          guifg=#cd3f45   guibg=NONE      gui=bold 
 hi pythonException              ctermfg=167   ctermbg=NONE  cterm=bold          guifg=#cd3f45   guibg=NONE      gui=bold 
 hi pythonStatement              ctermfg=167   ctermbg=NONE  cterm=bold          guifg=#cd3f45   guibg=NONE      gui=bold 
+hi pythonBuiltinFunc            ctermfg=164   ctermbg=NONE  cterm=bold          guifg=#d700d7   guibg=NONE      gui=bold 
 "hi Operator                     ctermfg=167   ctermbg=NONE  cterm=bold          guifg=#cd3f45   guibg=NONE      gui=bold 
 "hi Identifier                   ctermfg=167   ctermbg=NONE  cterm=NONE          guifg=#cd3f45   guibg=NONE      gui=NONE 
 
