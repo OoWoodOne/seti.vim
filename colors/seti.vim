@@ -27,9 +27,9 @@ hi Search                       ctermfg=NONE  ctermbg=NONE  cterm=underline     
 hi Directory                    ctermfg=167   ctermbg=NONE  cterm=NONE          guifg=#cd3f45   guibg=NONE      gui=NONE
 hi Folded                       ctermfg=59    ctermbg=16    cterm=NONE          guifg=#41535b   guibg=#151718   gui=NONE
 hi Scrollbar                    ctermfg=NONE  ctermbg=NONE  cterm=NONE          guifg=#585858   guibg=#303030   gui=NONE
-hi TabLine                      ctermfg=243   ctermbg=251   cterm=NONE          guifg=#757777   guibg=#c6c6c6   gui=NONE
-hi TabLineFill                  ctermfg=243   ctermbg=251   cterm=NONE          guifg=#757777   guibg=#c6c6c6   gui=NONE
-hi TabLineSel                   ctermfg=34    ctermbg=225   cterm=bold          guifg=#00af00   guibg=#ffd7ff   gui=bold
+hi TabLine                      ctermfg=238   ctermbg=244   cterm=NONE          guifg=#444444   guibg=#808080   gui=NONE
+hi TabLineFill                  ctermfg=238   ctermbg=244   cterm=NONE          guifg=#444444   guibg=#808080   gui=NONE
+hi TabLineSel                   ctermfg=34    ctermbg=247   cterm=bold          guifg=#00af00   guibg=#9e9e9e   gui=bold
 
 hi Normal                       ctermfg=188   ctermbg=16    cterm=NONE          guifg=#d4d7d6   guibg=#151718   gui=NONE
 hi Boolean                      ctermfg=167   ctermbg=NONE  cterm=NONE          guifg=#cd3f45   guibg=NONE      gui=NONE
