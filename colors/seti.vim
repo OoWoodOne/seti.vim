@@ -31,7 +31,7 @@ hi TabLine                      ctermfg=238   ctermbg=244   cterm=NONE          
 hi TabLineFill                  ctermfg=238   ctermbg=244   cterm=NONE          guifg=#444444   guibg=#808080   gui=NONE
 hi TabLineSel                   ctermfg=22    ctermbg=247   cterm=bold          guifg=#005f00   guibg=#9e9e9e   gui=bold
 
-hi Normal                       ctermfg=188   ctermbg=16    cterm=NONE          guifg=#d4d7d6   guibg=#151718   gui=NONE
+hi Normal                       ctermfg=188   ctermbg=None    cterm=NONE          guifg=#d4d7d6   guibg=#151718   gui=NONE
 hi Boolean                      ctermfg=167   ctermbg=NONE  cterm=NONE          guifg=#cd3f45   guibg=NONE      gui=NONE
 hi Character                    ctermfg=167   ctermbg=NONE  cterm=NONE          guifg=#cd3f45   guibg=NONE      gui=NONE
 hi Comment                      ctermfg=59    ctermbg=NONE  cterm=NONE          guifg=#41535b   guibg=NONE      gui=NONE
