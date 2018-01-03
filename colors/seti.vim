@@ -1,7 +1,7 @@
 " Vim color file
 " Converted from Textmate theme Seti using Coloration v0.3.3 (http://github.com/sickill/coloration)
 
-set background=dark
+"set background=dark
 highlight clear
 
 if exists("syntax_on")
