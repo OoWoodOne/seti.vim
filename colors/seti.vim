@@ -11,7 +11,7 @@ endif
 let g:colors_name = "seti"
 
 hi Cursor                       ctermfg=16    ctermbg=222   cterm=NONE          guifg=#151718   guibg=#ffe792   gui=NONE
-hi Visual                       ctermfg=NONE  ctermbg=45    cterm=NONE          guifg=NONE      guibg=#4fa5c7   gui=NONE
+hi Visual                       ctermfg=NONE  ctermbg=44    cterm=NONE          guifg=NONE      guibg=#4fa5c7   gui=NONE
 hi CursorLine                   ctermfg=NONE  ctermbg=235   cterm=NONE          guifg=NONE      guibg=#282a2b   gui=NONE
 hi CursorColumn                 ctermfg=NONE  ctermbg=235   cterm=NONE          guifg=NONE      guibg=#282a2b   gui=NONE
 hi ColorColumn                  ctermfg=NONE  ctermbg=235   cterm=NONE          guifg=NONE      guibg=#282a2b   gui=NONE
