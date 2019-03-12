@@ -147,5 +147,5 @@ hi cssBraces                    ctermfg=NONE  ctermbg=NONE  cterm=NONE          
 
 "hi YcmErrorSign                 ctermfg=NONE   ctermbg=237  cterm=NONE          guifg=NONE   guibg=NONE      gui=NONE
 "hi YcmWarningSign               ctermfg=NONE   ctermbg=237  cterm=NONE          guifg=NONE   guibg=NONE      gui=NONE
-hi YcmErrorSection                 ctermfg=NONE   ctermbg=237  cterm=NONE          guifg=NONE   guibg=NONE      gui=NONE
-hi YcmWarningSection              ctermfg=NONE   ctermbg=237  cterm=NONE          guifg=NONE   guibg=NONE      gui=NONE
+hi YcmErrorSection                 ctermfg=NONE   ctermbg=52  cterm=NONE          guifg=NONE   guibg=NONE      gui=NONE
+hi YcmWarningSection              ctermfg=NONE   ctermbg=52  cterm=NONE          guifg=NONE   guibg=NONE      gui=NONE
